@@ -2,9 +2,11 @@ body{
 	font-family: "Helvetica", "Arial", fantasy;
 	color: #AAFF00;
 	background-color: lightblue;
+	text-shadow: 1px 1px #ff0000;
 }
 
 h1 {
 	font-size: 1.3em;
 	text-align: center;
+	text-shadow: 1px 1px #ff0000;
 }
