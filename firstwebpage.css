@@ -10,3 +10,8 @@ h1 {
 	text-align: center;
 	text-shadow: 1px 1px #ff0000;
 }
+center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
