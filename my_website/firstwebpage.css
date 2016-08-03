@@ -11,3 +11,12 @@ h1 {
 	text-align: center;
 	text-shadow: 1px 1px #ff0000;
 }
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
